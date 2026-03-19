@@ -15,7 +15,7 @@ This project is an interactive Excel dashboard that analyzes India's macroeconom
 ## Files
 
 - **India_Macro_Dashboard_Master.xlsx** – main Excel workbook with raw data, consolidated table, calculations, and dashboard.
-- **India_Macro_Dashboard_Documentation.md** – detailed methodology, formulas, and key policy insights.
+- **India_Macro_Dashboard_Documentation.docx** – detailed methodology, formulas, and key policy insights.
 - **dashboard.png** – screenshot of the final dashboard sheet.
 
 ## Skills Demonstrated
